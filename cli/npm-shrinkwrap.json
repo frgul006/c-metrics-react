@@ -1,5 +1,5 @@
 {
-  "name": "pluralsight-redux-starter",
+  "name": "campanja-assignment-srv",
   "version": "1.0.0",
   "dependencies": {
     "accepts": {
@@ -2254,6 +2254,11 @@
       "from": "loader-utils@>=1.0.2 <2.0.0",
       "resolved": "https://registry.npmjs.org/loader-utils/-/loader-utils-1.1.0.tgz",
       "dev": true
+    },
+    "loadjs": {
+      "version": "3.5.0",
+      "from": "loadjs@latest",
+      "resolved": "https://registry.npmjs.org/loadjs/-/loadjs-3.5.0.tgz"
     },
     "lodash": {
       "version": "4.17.4",
