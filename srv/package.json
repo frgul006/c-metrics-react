@@ -1,0 +1,16 @@
+{
+  "name": "campanja-assignment-srv",
+  "version": "0.0.1",
+  "author": "Fredrik Gullberg",
+  "private": true,
+  "dependencies": {
+    "express": "^4.15.2",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "url-parse": "^1.1.9"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {}
+}

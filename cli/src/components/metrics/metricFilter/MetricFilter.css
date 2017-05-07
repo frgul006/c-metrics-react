@@ -1,0 +1,27 @@
+.c-metric__filters {
+    display: flex;
+    justify-content: space-between;
+}
+
+.c-metric__filter {
+    display: flex;
+}
+
+.c-metric__dropdown .mdl-textfield__label {
+    font-size: 12px;
+    top: 14px;
+    left: 23px;
+}
+
+.c-metric__bracket:before {
+    content: "-";
+    display: block;
+    padding-top: 28px;
+    line-height: 44px;
+    width: 48px;
+    text-align: center;
+}
+
+.c-datepicker > div {
+    width: 80px !important;
+}

@@ -1,0 +1,20 @@
+.header__list {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header__list_item {
+    margin-right: 5px;
+}
+
+.header__list_item:last-child {
+    margin-right: 0;
+}
+
+.header__link {
+    display: block;
+    padding-left: 5px;
+    padding-right: 5px;
+}
